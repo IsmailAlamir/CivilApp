@@ -15,7 +15,7 @@ val SchibstedGrotesk = FontFamily(
     Font(R.font.schibstedgrotesk_bold, FontWeight.Bold)
 )
 
-val Typography = Typography(
+val AppTypography = Typography(
     bodyLarge = TextStyle(
         fontFamily = SchibstedGrotesk,
         fontWeight = FontWeight.Normal,
